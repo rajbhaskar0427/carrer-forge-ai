@@ -63,7 +63,7 @@ The user provides:
 - ⏱️ Weekly learning capacity
 - 📅 Target timeline
 
-### CareerForge Intelligence
+
 
 The platform analyzes the target career and maps:
 
